@@ -1,4 +1,10 @@
 #ocean-img {
-    width: 800px;
+    width: 450px;
     height: auto;
+}
+#name {
+    color:beige;
+}
+body {
+    background-color:89CFF0 ;
 }
